@@ -1,6 +1,6 @@
 # Bataille navale
 
-La conception du jeu bataille navale pour le troisième projet de session dans le cadre du cours INF5153 à hiver 2020.
+La conception du jeu bataille navale pour le troisième projet de session dans le cadre du cours de Génie logiciel.
 
 ## L'installation
 
